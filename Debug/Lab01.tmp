@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega128A"</DEVICE>
+ <WORKING_DIR>C:\Users\Vdn85\OneDrive\Desktop\Github\EECE3624-Lab01\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Vdn85\OneDrive\Desktop\Github\EECE3624-Lab01\Lab01.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m128adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Vdn85\OneDrive\Desktop\Github\EECE3624-Lab01\Debug\Lab01.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab01.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab01.map</FILE>
+  <FILE>Lab01.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\Vdn85\OneDrive\Desktop\Github\EECE3624-Lab01\Lab01.asm</FILE><LINE>44</LINE></main>
+  <USART_Init><FILE>C:\Users\Vdn85\OneDrive\Desktop\Github\EECE3624-Lab01\Lab01.asm</FILE><LINE>110</LINE></USART_Init>
+  <Display_Welcome><FILE>C:\Users\Vdn85\OneDrive\Desktop\Github\EECE3624-Lab01\Lab01.asm</FILE><LINE>75</LINE></Display_Welcome>
+  <mainLoop><FILE>C:\Users\Vdn85\OneDrive\Desktop\Github\EECE3624-Lab01\Lab01.asm</FILE><LINE>66</LINE></mainLoop>
+  <USART_Receive><FILE>C:\Users\Vdn85\OneDrive\Desktop\Github\EECE3624-Lab01\Lab01.asm</FILE><LINE>146</LINE></USART_Receive>
+  <LED_Blink><FILE>C:\Users\Vdn85\OneDrive\Desktop\Github\EECE3624-Lab01\Lab01.asm</FILE><LINE>96</LINE></LED_Blink>
+  <USART_Transmit><FILE>C:\Users\Vdn85\OneDrive\Desktop\Github\EECE3624-Lab01\Lab01.asm</FILE><LINE>126</LINE></USART_Transmit>
+  <WelcomeMessage><FILE>C:\Users\Vdn85\OneDrive\Desktop\Github\EECE3624-Lab01\Lab01.asm</FILE><LINE>179</LINE></WelcomeMessage>
+  <GetNextChar><FILE>C:\Users\Vdn85\OneDrive\Desktop\Github\EECE3624-Lab01\Lab01.asm</FILE><LINE>80</LINE></GetNextChar>
+  <DisplayDone><FILE>C:\Users\Vdn85\OneDrive\Desktop\Github\EECE3624-Lab01\Lab01.asm</FILE><LINE>92</LINE></DisplayDone>
+  <delay10mS><FILE>C:\Users\Vdn85\OneDrive\Desktop\Github\EECE3624-Lab01\Lab01.asm</FILE><LINE>161</LINE></delay10mS>
+  <Send_LF><FILE>C:\Users\Vdn85\OneDrive\Desktop\Github\EECE3624-Lab01\Lab01.asm</FILE><LINE>138</LINE></Send_LF>
+  <outer_loop><FILE>C:\Users\Vdn85\OneDrive\Desktop\Github\EECE3624-Lab01\Lab01.asm</FILE><LINE>163</LINE></outer_loop>
+  <inner_loop><FILE>C:\Users\Vdn85\OneDrive\Desktop\Github\EECE3624-Lab01\Lab01.asm</FILE><LINE>169</LINE></inner_loop>
+ </LABELS>
+</ASSEMBLER_INFO>
